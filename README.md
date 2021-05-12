@@ -1,3 +1,13 @@
+<h1>To run and view the design system</h1>
+<p>Once you are in the directory "/taskbox", simply run "Yarn storybook" 
+
+<h2>To view components</h2>
+Navigate to /src/components/
+
+
+<h2>To use components</h2>
+Simply copy the import and export in the component.stories.js file, please make sure that if you are exporting this outside the directory, please change it in the import code.
+
 
 <p align="center">
   <a href="https://www.chromatic.com/">
